@@ -1,6 +1,6 @@
 # Flight Delay Prediction System
 
-A system made to predict flight delays using Machine Learning models.
+A system made to predict flight delays using  ML models.
 
 
 ## Pre-requisite
